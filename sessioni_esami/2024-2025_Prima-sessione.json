@@ -1,0 +1,13 @@
+[
+    {
+        "nome": "A.D.E",
+        "difficolta": 7.0,
+        "preparazione": 7.25,
+        "tipo": "Scritto",
+        "voto_atteso": "18",
+        "gruppo": "",
+        "peso": 100.0,
+        "storico_voti": [],
+        "concluso": false
+    }
+]
