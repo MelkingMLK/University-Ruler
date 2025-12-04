@@ -1,13 +1,13 @@
--quote
--percentuale
--descrizione info indice
--gestione parziale
--gestione accettato
--grafico
--scritto e orale
--livello preparazione successivo
+-grafico(gauss e isto)
+quote
+percentuale
+
+grafico
 
 
+
+ -BUG FIX
+ se esame passato e clicco non posso inserire esame
 
 ----
 I

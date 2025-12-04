@@ -1,12 +1,59 @@
 [
     {
-        "nome": "A.D.E",
-        "difficolta": 7.0,
-        "preparazione": 7.25,
+        "nome": "Programmazione",
+        "difficolta": 6.75,
+        "preparazione": 8.0,
         "tipo": "Scritto",
+        "data": "09/01/2025",
+        "voto_atteso": "",
+        "gruppo": "",
+        "peso": 100.0,
+        "progresso": 86,
+        "storico_voti": [
+            "26"
+        ],
+        "concluso": true
+    },
+    {
+        "nome": "Algebra e Geometria",
+        "difficolta": 7.75,
+        "preparazione": 7.0,
+        "tipo": "Scritto",
+        "data": "14/01/2025",
         "voto_atteso": "18",
         "gruppo": "",
         "peso": 100.0,
+        "progresso": 75,
+        "storico_voti": [
+            "12"
+        ],
+        "concluso": true
+    },
+    {
+        "nome": "Algebra e Geometria",
+        "difficolta": 7.75,
+        "preparazione": 87.0,
+        "tipo": "Scritto",
+        "data": "29/01/2025",
+        "voto_atteso": "",
+        "gruppo": "",
+        "peso": 100.0,
+        "progresso": 100,
+        "storico_voti": [
+            "18"
+        ],
+        "concluso": true
+    },
+    {
+        "nome": "A.D.E.",
+        "difficolta": 8.25,
+        "preparazione": 6.5,
+        "tipo": "Scritto",
+        "data": "06/02/2025",
+        "voto_atteso": "18",
+        "gruppo": "",
+        "peso": 100.0,
+        "progresso": 80,
         "storico_voti": [],
         "concluso": false
     }
